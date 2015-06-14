@@ -1,5 +1,5 @@
 This is a complete remake, and yet, using ANY constraints other than allowing auto-layout to run 
-automatically (add missing constraints) resutls in the second label not appearing. Only a third 
+automatically (add missing constraints) results in the second label not appearing. Only a third 
 label (sans constraints) will show. Go figure. At least I got in some practice, which was needed, 
 as the prior project was totally hacked from the XML given as an example (which took some doing, 
 and, I would not have done it had Xcode not refused to allow me to drag a cell onto the scrollView)
