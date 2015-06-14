@@ -1,2 +1,2 @@
 Just had to try adding .git* to the .gitignore file, to see what would ... ensue.
-Then mv .giti* ../. etcetera 
+Then mv .giti* ../. etcetera ...  
